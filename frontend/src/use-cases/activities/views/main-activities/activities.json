@@ -1,0 +1,23 @@
+[
+  {
+    "date" : "30:e augusti",
+    "image" : "kubb.jpg",
+    "name" : "Kubb",
+    "link" : "https://www.draggit.chalmers.it",
+    "description" : " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mauris ex, convallis sit amet ullamcorper ullamcorper, feugiat in risus. Nunc mollis tellus eu lacus tristique pharetra. Vestibulum id faucibus elit. Phasellus nunc dolor, luctus a erat eu, tempus interdum lacus. Maecenas ultricies luctus orci ut elementum. Suspendisse ac euismod neque."
+  },
+  {
+    "date" : "31:e augusti",
+    "image" : "running.png",
+    "name" : "Löpträning",
+    "link" : "https://www.draggit.chalmers.it",
+    "description" : " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mauris ex, convallis sit amet ullamcorper ullamcorper, feugiat in risus. Nunc mollis tellus eu lacus tristique pharetra. Vestibulum id faucibus elit. Phasellus nunc dolor, luctus a erat eu, tempus interdum lacus. Maecenas ultricies luctus orci ut elementum. Suspendisse ac euismod neque."
+  },
+  {
+    "date" : "32:e augusti",
+    "image" : "long_jump.jpg",
+    "name" : "Längdhopp",
+    "link" : "https://www.draggit.chalmers.it",
+    "description" : " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mauris ex, convallis sit amet ullamcorper ullamcorper, feugiat in risus. Nunc mollis tellus eu lacus tristique pharetra. Vestibulum id faucibus elit. Phasellus nunc dolor, luctus a erat eu, tempus interdum lacus. Maecenas ultricies luctus orci ut elementum. Suspendisse ac euismod neque."
+  }
+]

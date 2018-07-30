@@ -1,5 +1,6 @@
 import React from "react";
 import { Add } from "@material-ui/icons";
+import { Tabs, Tab } from "@material-ui/core";
 
 import {
   ButtonsContainer,
@@ -35,6 +36,10 @@ class Demo extends React.Component {
   render() {
     return (
       <div>
+        <Tabs>
+          <Tab label="Coolio" />
+          <Tab label="Even more coolio" />
+        </Tabs>
         <Heading text="Hej" />
         <Title text="Det här är en title" />
         <Subtitle text="Det här är en subtitle" />

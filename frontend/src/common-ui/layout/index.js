@@ -44,3 +44,24 @@ export const Center = styled.div`
   justify-content: center;
   align-content: center;
 `;
+
+export const TwoColGridWithBigGap = styled.div`
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 16px;
+`;
+
+export const TwoColGridWithSmallGap = styled.div`
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 8px;
+  row-gap: 8px;
+`;
+
+export const ThreeColGrid = styled.div`
+  display: grid;
+  grid-template-column: 1fr, 1fr, 1fr;
+  column-gap: 8px;
+  row-gap: 8px;
+`;

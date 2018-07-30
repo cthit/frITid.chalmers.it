@@ -68,7 +68,7 @@ export const GammaCardHeader = styled.div`
     props.hasIcon ? "40px auto 32px" : "0px auto 32px"}
 
   grid-template-rows: ${props =>
-    props.hasSubTitle ? "33px 25px auto" : "33px 0px auto"};
+    props.hasSubTitle ? "33px 25px auto" : "50px 0px auto"};
 `;
 
 export const GammaCardHeaderImage = styled.img`

@@ -1,0 +1,23 @@
+[
+  {
+    "date" : "15:e September",
+    "image" : "cm_fotboll.jpg",
+    "name" : "CM i fotboll",
+    "link" : "https://www.draggit.chalmers.it",
+    "description" : " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mauris ex, convallis sit amet ullamcorper ullamcorper, feugiat in risus. Nunc mollis tellus eu lacus tristique pharetra. Vestibulum id faucibus elit. Phasellus nunc dolor, luctus a erat eu, tempus interdum lacus. Maecenas ultricies luctus orci ut elementum. Suspendisse ac euismod neque."
+  },
+  {
+    "date" : "17:e September",
+    "image" : "cm_innebandy.png",
+    "name" : "CM i innebandy",
+    "link" : "https://www.draggit.chalmers.it",
+    "description" : " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mauris ex, convallis sit amet ullamcorper ullamcorper, feugiat in risus. Nunc mollis tellus eu lacus tristique pharetra. Vestibulum id faucibus elit. Phasellus nunc dolor, luctus a erat eu, tempus interdum lacus. Maecenas ultricies luctus orci ut elementum. Suspendisse ac euismod neque."
+  },
+  {
+    "date" : "15:e September",
+    "image" : "cm_beachvolley.jpg",
+    "name" : "CM i beachvolleyboll",
+    "link" : "https://www.draggit.chalmers.it",
+    "description" : " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mauris ex, convallis sit amet ullamcorper ullamcorper, feugiat in risus. Nunc mollis tellus eu lacus tristique pharetra. Vestibulum id faucibus elit. Phasellus nunc dolor, luctus a erat eu, tempus interdum lacus. Maecenas ultricies luctus orci ut elementum. Suspendisse ac euismod neque."
+  }
+]

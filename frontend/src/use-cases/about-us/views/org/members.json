@@ -1,0 +1,36 @@
+{
+  "image": "/fritid.jpg",
+  "text": "frITid är IT-sektionens idrotts- och fritidsförening!_BLANKRAD_Det är vi som ser till att alla smurfar, som vill, har möjligheten att lämna datorn för en stund och få sig lite välbehövd motion och eventuellt frisk luft. Vi träffas varje fredag klockan 15:30-17:30 för att träna tillsammans i kårhusets motionshall eller utomhus på Mossens IP. Vi arrangerar diverse aktiviteter där fredagarna exempelvis kan bestå av volleyboll, badminton, frisbee, fotboll eller annat. Efteråt blir det bastu- och poolhäng för de som vill, så glöm inte badkläder._BLANKRAD_Vi arrangerar även större arrangemang utanför Chalmersområdet, som en tur till Bounce, skidresor, eller varför inte en minigolfrunda. Ibland träffas vi även i mindre konditionskrävande förhållanden för att agera hejarklack inför en match, live som framför tv, och låter ”proffsen” sköta jobbet._BLANKRAD_Vi ansvarar också för anmälan och uttagning när det vankas CM (Chalmersmästerskap). Information angående dessa publiceras under årets gång här på chalmers.it, i slackkanalen news, samt på vår hemsida fritid.chalmers.it._BLANKRAD_Har ni fler funderingar eller någon kul idé på aktivitet relaterade till frITid så tveka inte på att höra av er! Ni kan alltid nå oss via mail på fritid@chalmers.it , men vi finns också ofta tillgängliga i Hubben så det är bara att grabba tag i någon av oss.",
+  "members": [
+    {
+      "name": "Carolina \"Putte\" Larsson",
+      "position": "Ordförande",
+      "pathToImage": "/putte.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu laoreet ligula. Etiam sed accumsan leo, id sollicitudin quam. Pellentesque dolor neque, hendrerit ac sagittis at, euismod id elit. Donec id nisl lectus. Aenean in quam nunc. Praesent congue, ex et congue fermentum, purus sapien bibendum ligula, sed malesuada libero. "
+    },
+    {
+      "name": "Tobias \"Hoidi\" Karlsson",
+      "position": "Kassör",
+      "pathToImage": "/hoidi.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu laoreet ligula. Etiam sed accumsan leo, id sollicitudin quam. Pellentesque dolor neque, hendrerit ac sagittis at, euismod id elit. Donec id nisl lectus. Aenean in quam nunc. Praesent congue, ex et congue fermentum, purus sapien bibendum ligula, sed malesuada libero. "
+    },
+    {
+      "name": "Förnamn \"Nick\" Efternamn",
+      "position": "Post",
+      "pathToImage": "/nick.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu laoreet ligula. Etiam sed accumsan leo, id sollicitudin quam. Pellentesque dolor neque, hendrerit ac sagittis at, euismod id elit. Donec id nisl lectus. Aenean in quam nunc. Praesent congue, ex et congue fermentum, purus sapien bibendum ligula, sed malesuada libero. "
+    },
+    {
+      "name": "Förnamn \"Nick\" Efternamn",
+      "position": "Post",
+      "pathToImage": "/nick.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu laoreet ligula. Etiam sed accumsan leo, id sollicitudin quam. Pellentesque dolor neque, hendrerit ac sagittis at, euismod id elit. Donec id nisl lectus. Aenean in quam nunc. Praesent congue, ex et congue fermentum, purus sapien bibendum ligula, sed malesuada libero. "
+    },
+    {
+      "name": "Förnamn \"Nick\" Efternamn",
+      "position": "Post",
+      "pathToImage": "/nick.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu laoreet ligula. Etiam sed accumsan leo, id sollicitudin quam. Pellentesque dolor neque, hendrerit ac sagittis at, euismod id elit. Donec id nisl lectus. Aenean in quam nunc. Praesent congue, ex et congue fermentum, purus sapien bibendum ligula, sed malesuada libero. "
+    }
+  ]
+}
